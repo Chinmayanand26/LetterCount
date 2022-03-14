@@ -1,0 +1,1 @@
+{"a":"LetterCount","b":"Given a string as input, you need to output how many times each letter appears in the string.\nYou decide to store the data in a dictionary, with the letters as the keys, and the corresponding counts as the values.\nCreate a program to take a string as input and output a dictionary, which represents the letter count.","c":"PYTHON"}
